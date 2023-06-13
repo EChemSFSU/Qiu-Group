@@ -1,0 +1,2 @@
+The Qiu Group at San Francisco State University (SF State) works on (photo)electrocatalysis of anodic reactions, including oxygen evolution reaction and alcohol oxidation reactions using plasmonic electrodes and first row transition metal catalysts. 
+We also collaborate with scientists in SLAC on photoelectrochemical hydrogen evolution. We work with undergraduate and master students on these research and our research projects are supported by the Startup fund from SF State, NSF and DOE. 
